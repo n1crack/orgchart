@@ -18,11 +18,11 @@
   },
   "devDependencies": {
     "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
-    "@vitejs/plugin-react": "^6.0.5",
+    "@types/react-dom": "^19.2.5",
+    "@vitejs/plugin-react": "^6.1.0",
     "@vitejs/plugin-vue": "^6.0.8",
     "typescript": "5.9.3",
-    "vite": "^8.2.1",
-    "vue-tsc": "^3.3.10"
+    "vite": "^8.2.2",
+    "vue-tsc": "^3.3.11"
   }
 }
